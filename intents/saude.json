@@ -1,0 +1,48 @@
+{
+  "id": "20de4205-2cf3-442e-9120-4610c402b08e",
+  "name": "saude",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e7ce48a-dbc7-4215-80da-ca65b3f8498e",
+          "required": false,
+          "dataType": "@sintomas",
+          "name": "sintomas",
+          "value": "$sintomas",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": [
+            "Vou te mandar o contato da nossa equipe médica, espero que melhore.  ##contato##",
+            "Quer falar com um médico sobre isso ? Segue o contato da equipe da CCR. Melhoras pra você. ##contato##",
+            "Estou te mandando o contato da nossa equipe médica, eles vão conseguir te ajudar melhor. Se cuida. ##contato##"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

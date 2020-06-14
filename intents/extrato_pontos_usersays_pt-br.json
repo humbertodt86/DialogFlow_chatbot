@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b4b8e555-4cc8-4e62-90ab-91d6c6588c25",
+    "data": [
+      {
+        "text": "quantos pts eu tenho ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5088921e-cacb-4599-9fb5-dc99c4589132",
+    "data": [
+      {
+        "text": "quais sao os meus pontos ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c4fe9234-901f-4ffa-8853-0ff879125ce0",
+    "data": [
+      {
+        "text": "qual minha pontuação ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e827502f-025f-4b2f-8977-6fab6eeb9a2d",
+    "data": [
+      {
+        "text": "quantos pontos eu tenho ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

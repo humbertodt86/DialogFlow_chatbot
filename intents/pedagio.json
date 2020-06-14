@@ -1,0 +1,66 @@
+{
+  "id": "b13f7bdc-c1a3-4e77-abcf-fa0abff01d41",
+  "name": "pedagio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "410623d3-af85-40f0-b12f-9dcfe7d43776",
+          "required": true,
+          "dataType": "@nome_pedagio",
+          "name": "nome_pedagio",
+          "value": "$nome_pedagio",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Me fale o nome do pedágio CCR que você passou."
+            },
+            {
+              "lang": "pt-br",
+              "value": "Em qual pedágio CCR você passou ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9bf64d34-13cd-432c-a72a-fbf80904cd0a",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Você passou no pedágio $nome_pedagio . Parabéns"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

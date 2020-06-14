@@ -1,0 +1,104 @@
+[
+  {
+    "id": "709555ec-055e-4290-bbf6-93f27f328617",
+    "data": [
+      {
+        "text": "Eu passei no ",
+        "userDefined": false
+      },
+      {
+        "text": "pedágio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Osasco",
+        "alias": "nome_pedagio",
+        "meta": "@nome_pedagio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7e8d5eb-1771-4307-a320-8f13170b5e0c",
+    "data": [
+      {
+        "text": "passei no ",
+        "userDefined": false
+      },
+      {
+        "text": "pedagio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Itapevi",
+        "alias": "nome_pedagio",
+        "meta": "@nome_pedagio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f3d356d-723b-4ecb-bf36-aa8727d061f6",
+    "data": [
+      {
+        "text": "passei no ",
+        "userDefined": false
+      },
+      {
+        "text": "pedagio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Rodoanel",
+        "alias": "nome_pedagio",
+        "meta": "@nome_pedagio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9089bba9-175a-4c9f-b2be-7ca0f97c7724",
+    "data": [
+      {
+        "text": "eu passei no ",
+        "userDefined": false
+      },
+      {
+        "text": "pedágio",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

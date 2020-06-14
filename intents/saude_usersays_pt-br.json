@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8322773c-008c-40ab-9672-c6724dc94b18",
+    "data": [
+      {
+        "text": "estou ",
+        "userDefined": false
+      },
+      {
+        "text": "puto",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      },
+      {
+        "text": " da vida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a01fae1d-7d55-4b1c-a37b-0b8e3da19a89",
+    "data": [
+      {
+        "text": "estou ",
+        "userDefined": false
+      },
+      {
+        "text": "gripado",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19b74cd7-0552-4e05-a247-8212b225beca",
+    "data": [
+      {
+        "text": "estou com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "febre",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4976be2-f1db-4ead-af0e-a3a1d4c74fde",
+    "data": [
+      {
+        "text": "eu estou ",
+        "userDefined": false
+      },
+      {
+        "text": "stressado",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f16754ab-b049-4461-87af-edb79c0244d8",
+    "data": [
+      {
+        "text": "estou me ",
+        "userDefined": false
+      },
+      {
+        "text": "sentindo mal",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "886dddd1-c323-4729-ad30-8cbb33737371",
+    "data": [
+      {
+        "text": "não estou ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "alias": "sintomas",
+        "meta": "@sintomas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

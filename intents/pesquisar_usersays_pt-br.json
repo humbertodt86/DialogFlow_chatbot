@@ -1,0 +1,38 @@
+[
+  {
+    "id": "93e071c0-7e26-4c8e-ab81-bab199424271",
+    "data": [
+      {
+        "text": "quero fazer a pesquisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51c39ac1-47a5-4ba0-bb22-67570af4bdad",
+    "data": [
+      {
+        "text": "participar da pesquisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1956bd17-7520-4a4a-a541-c31fd163f69a",
+    "data": [
+      {
+        "text": "responder pesquisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

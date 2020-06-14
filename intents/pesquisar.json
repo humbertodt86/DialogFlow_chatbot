@@ -1,0 +1,50 @@
+{
+  "id": "826a2108-5bda-4200-9684-4b64fa560bcb",
+  "name": "pesquisar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "35cce8ac-eb0e-4bd8-ba35-3f91f6cd376a",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "r_pesquisa_ccr",
+          "value": "$resposta",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Responda SIM ou NÃO. Você gosta dos serviços prestados pela CCR?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

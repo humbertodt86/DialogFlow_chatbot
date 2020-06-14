@@ -1,0 +1,122 @@
+{
+  "id": "13499958-1aa2-4bea-afa3-60607662cd10",
+  "name": "cadastrar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "menu-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c95ca639-62c4-4f3a-9f56-40e05264acf4",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nome_completo",
+          "value": "$nome_c",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Me diga o seu nome completo, por favor."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "48e7708f-87b0-47fd-aa8e-60b0d7faca68",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nome",
+          "value": "$nome",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Me diga como você quer que eu chame você"
+            },
+            {
+              "lang": "pt-br",
+              "value": "Me fale por qual nome você quer que te chame."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8cd66552-ae4d-40ac-8146-90ca57a03bbd",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "cpf",
+          "value": "$cpf",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$nome, me diga seu CPF, apenas números"
+            },
+            {
+              "lang": "pt-br",
+              "value": "$nome, digite os números do seu CPF"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f938bc93-93a5-48e3-8cee-b1c709365198",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "placa",
+          "value": "$placa",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "$nome, me fale a placa do seu caminhão"
+            },
+            {
+              "lang": "pt-br",
+              "value": "$nome, digita a placa do seu caminhão"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
