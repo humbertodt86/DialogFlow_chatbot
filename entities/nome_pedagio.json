@@ -1,0 +1,9 @@
+{
+  "id": "c661ff16-7d66-4c42-a42f-4955f17680c2",
+  "name": "nome_pedagio",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

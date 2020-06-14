@@ -1,0 +1,58 @@
+[
+  {
+    "value": "stressado",
+    "synonyms": [
+      "stressado"
+    ]
+  },
+  {
+    "value": "sentindo mal",
+    "synonyms": [
+      "sentindo mal",
+      "sentindo mau",
+      "ruim"
+    ]
+  },
+  {
+    "value": "dor de cabeça",
+    "synonyms": [
+      "dor de cabeça"
+    ]
+  },
+  {
+    "value": "febre",
+    "synonyms": [
+      "febre",
+      "febrio",
+      "febril"
+    ]
+  },
+  {
+    "value": "dor nas costas",
+    "synonyms": [
+      "dor nas costas",
+      "dolorido"
+    ]
+  },
+  {
+    "value": "tosse",
+    "synonyms": [
+      "tosse",
+      "tossindo"
+    ]
+  },
+  {
+    "value": "gripado",
+    "synonyms": [
+      "gripado",
+      "grioe",
+      "moleza"
+    ]
+  },
+  {
+    "value": "nariz escorrendo",
+    "synonyms": [
+      "nariz escorrendo"
+    ]
+  }
+]
